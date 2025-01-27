@@ -77,8 +77,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Samehh&locale=en&mode=daily&theme=react&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Samehh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false" height="250" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Samehh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="250" alt="languages graph"/>
 </div>
 
 ###
@@ -88,11 +87,3 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Samehh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/Mohamed-Samehh/Mohamed-Samehh/blob/output/github-contribution-grid-snake.svg?" alt="Snake animation" />
-
-###
