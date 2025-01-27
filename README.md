@@ -1,13 +1,5 @@
 <br clear="both">
 
-<div align="center">
-  <img width="2000" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
-</div>
-
-###
-
-<br clear="both">
-
 <h2 align="left">Hi 👋! My name is Mohamed Sameh and I'm a Full Stack Developer.</h2>
 
 ###
