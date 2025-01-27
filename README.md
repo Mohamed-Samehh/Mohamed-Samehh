@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img width="1000" height="auto" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+  <img width="1000" height="100" src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 </div>
 
 ###
