@@ -93,6 +93,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Mohamed-Samehh/Mohamed-Samehh/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mohamed-Samehh/Mohamed-Samehh/main/resources/img/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 ###
