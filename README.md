@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.licdn.com/dms/image/v2/D4D16AQHtDag8SMesWw/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1726576728584?e=1743638400&v=beta&t=dRC0MGhjDZeGH8d4cLPiuUMvWfOIqBxZzKOTvEDK2MQ"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h2 align="left">Hi 👋! My name is Mohamed Sameh and I'm a Full Stack Developer.</h2>
@@ -32,7 +26,7 @@
 
 <br clear="both">
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -83,7 +77,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Samehh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Mohamed-Samehh&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Samehh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
