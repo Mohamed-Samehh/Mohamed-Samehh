@@ -77,7 +77,9 @@
 <br clear="both">
 
 <div align="center">
-  <embed src="https://streak-stats.demolab.com?user=Mohamed-Samehh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" type="image/gif" />
+  <object data="https://streak-stats.demolab.com?user=Mohamed-Samehh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"    type="image/gif" height="150">
+    <p>Your browser does not support the object tag. Here’s a fallback message or image.</p>
+  </object>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Samehh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
