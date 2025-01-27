@@ -77,7 +77,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Mohamed-Samehh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <embed src="https://streak-stats.demolab.com?user=Mohamed-Samehh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" type="image/gif" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Samehh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
