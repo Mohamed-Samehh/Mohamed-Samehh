@@ -1,5 +1,13 @@
 <br clear="both">
 
+<div align="center">
+  <img height="90" src="https://camo.githubusercontent.com/1d4c34083e6f51ab01a4b28acf189765a663516c56d54525c1e04f3e339e1494/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d374236384545266865696768743d3132302673656374696f6e3d686561646572"  />
+</div>
+
+###
+
+<br clear="both">
+
 <h2 align="left">Hi 👋! My name is Mohamed Sameh and I'm a Full Stack Developer.</h2>
 
 ###
@@ -26,7 +34,7 @@
 
 <br clear="both">
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -76,8 +84,9 @@
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Samehh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Mohamed-Samehh&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Samehh&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="160" alt="languages graph"  />
 </div>
 
 ###
@@ -87,3 +96,11 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohamed-Samehh&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Mohamed-Samehh/Mohamed-Samehh/output/snake.svg" alt="Snake animation" />
+
+###
