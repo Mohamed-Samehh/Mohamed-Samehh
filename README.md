@@ -30,16 +30,14 @@ const mohamed: SoftwareEngineer = {
     "BUE / LSBU — BSc Informatics & Computer Science, Software Engineering (2021–2025)",
   ],
 
-  about: `
-    Software engineer with hands-on experience across the full stack —
-    from building responsive frontends in Angular and React, to designing
-    scalable backends with Node.js, Laravel, and Flask. I've worked across
-    internships and a contract role in frontend, backend, and AI engineering,
-    including developing RAG-powered chatbot systems and contributing to
-    Amazon's engineering workflows. AWS Certified and currently deepening
-    my expertise at ITI. I enjoy clean architecture, meaningful projects,
-    and shipping software that works.
-  `,
+  about: `Software engineer with experience across frontend, backend, mobile,
+          and AI/ML. I've contributed to real-world projects spanning Angular,
+          React, Node.js, Laravel, and Flask — including RAG-powered chatbots
+          and enterprise engineering workflows. AWS Certified Cloud Practitioner,
+          currently advancing my skills at ITI. I care about clean architecture,
+          meaningful solutions, and writing code that lasts.`,
+
+  openTo: ["Software Engineering roles", "AI/ML-integrated projects", "Freelance opportunities"],
 };
 ```
 
