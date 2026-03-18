@@ -25,17 +25,17 @@ const mohamed: SoftwareEngineer = {
   role:      "Software Engineer",
   location:  "Cairo, Egypt 🇪🇬",
 
-  education: [
-    "ITI — Open Source Application Development (2025–2026)",
-    "BUE / LSBU — BSc Informatics & Computer Science, Software Engineering (2021–2025)",
-  ],
-
   about: `Software engineer with experience across frontend, backend, mobile,
           and AI/ML. I've contributed to real-world projects spanning Angular,
           React, Node.js, Laravel, and Flask — including RAG-powered chatbots
           and enterprise engineering workflows. AWS Certified Cloud Practitioner,
           currently advancing my skills at ITI. I care about clean architecture,
           meaningful solutions, and writing code that lasts.`,
+
+  education: [
+    "ITI — Open Source Application Development (2025–2026)",
+    "BUE — Informatics & Computer Science, Software Engineering (2021–2025)",
+  ],
 
   openTo: ["Software Engineering roles", "AI/ML-integrated projects", "Freelance opportunities"],
 };
@@ -86,31 +86,23 @@ const mohamed: SoftwareEngineer = {
 
 ## 🚀 Featured Projects
 
-### 💰 Financial Advisor — AI-Powered Financial Planning App
+### 💰 [Financial Advisor](https://github.com/Mohamed-Samehh/Financial-Advisor) — AI-Powered Financial Planning App
 > A full-stack, cross-platform AI financial advisor combining web and mobile interfaces with intelligent ML-backed recommendations.
 
-[![Repo](https://img.shields.io/badge/GitHub-Financial--Advisor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh/Financial-Advisor)
-
 ---
 
-### 🎓 Spec Recommender — BUE Specialization Recommender
+### 🎓 [Spec Recommender](https://github.com/Mohamed-Samehh/Spec-Recommender) — BUE Specialization Recommender
 > A smart web application that guides students toward the right academic specialization based on their profile and preferences.
 
-[![Repo](https://img.shields.io/badge/GitHub-Spec--Recommender-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh/Spec-Recommender)
-
 ---
 
-### 📱 PeerLink — Social Media Mobile App
+### 📱 [PeerLink](https://github.com/Mohamed-Samehh/PeerLink-Mobile) — Social Media Mobile App
 > A feature-rich mobile social platform with real-time interactions, user authentication, and a scalable REST API backend.
 
-[![Repo](https://img.shields.io/badge/GitHub-PeerLink--Mobile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh/PeerLink-Mobile)
-
 ---
 
-### 🍳 Recipe Finder — Cooking Recipes Web App
+### 🍳 [Recipe Finder](https://github.com/Mohamed-Samehh/Recipe-Finder) — Cooking Recipes Web App
 > An Angular-based recipe discovery platform with dynamic search and a clean, responsive UI.
-
-[![Repo](https://img.shields.io/badge/GitHub-Recipe--Finder-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh/Recipe-Finder)
 
 ---
 
