@@ -19,31 +19,7 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const mohamed: SoftwareEngineer = {
-  name:      "Mohamed Sameh Elkholy",
-  role:      "Software Engineer",
-  location:  "Cairo, Egypt 🇪🇬",
-
-  education: [
-    "ITI — Open Source Application Development (2025–2026)",
-    "BUE / LSBU — BSc Informatics & Computer Science, Software Engineering (2021–2025)",
-  ],
-
-  expertise: {
-    frontend:  ["Angular", "React", "TypeScript", "Bootstrap", "HTML", "CSS"],
-    backend:   ["Node.js", "Express.js", "Laravel", "Flask", "PHP"],
-    databases: ["MySQL", "MongoDB", "SQL"],
-    ai:        ["AI Integration", "ML Frameworks"],
-    devops:    ["Docker", "AWS", "Linux", "Git"],
-    languages: ["Python", "Java", "C++", "C#", "C"],
-  },
-
-  certifications: ["AWS Certified Cloud Practitioner (2026)"],
-
-  openTo: ["Software Engineering roles", "AI/ML-integrated projects", "Freelance opportunities"],
-};
-```
+Software Engineer based in Cairo, Egypt 🇪🇬, with a BSc in Informatics & Computer Science from The British University in Egypt (dual degree with London South Bank University), and currently enrolled in ITI's intensive Open Source Application Development program. I build full-stack web and mobile applications with a strong focus on clean architecture, scalable backends, and seamless user experiences. I've applied my skills across multiple internships and contract roles — from frontend Angular work to AI-powered chatbot systems and Amazon engineering projects. I'm open to software engineering roles, AI-integrated projects, and freelance opportunities.
 
 ---
 
