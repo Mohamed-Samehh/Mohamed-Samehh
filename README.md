@@ -78,11 +78,7 @@ const mohamed: SoftwareEngineer = {
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
-### 🤖 AI/ML
-![AI Integration](https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![ML Frameworks](https://img.shields.io/badge/ML_Frameworks-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
 
----
 
 ## 🚀 Featured Projects
 
