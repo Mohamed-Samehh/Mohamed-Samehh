@@ -8,10 +8,9 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit-22c55e?style=for-the-badge)](https://mohamed-samehh.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sameh-elkholy)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh)
-[![Cairo](https://img.shields.io/badge/📍_Cairo,_Egypt-E11D48?style=for-the-badge)](https://github.com/Mohamed-Samehh)
+[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-22c55e?style=for-the-badge)](https://mohamed-samehh.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sameh-elkholy)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.kholy2011@gmail.com)
 
 </div>
 
