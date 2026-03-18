@@ -90,59 +90,20 @@ const mohamed: SoftwareEngineer = {
 ### 💰 Financial Advisor — AI-Powered Financial Planning App
 > A full-stack, cross-platform AI financial advisor combining web and mobile interfaces with intelligent ML-backed recommendations.
 
-| Layer | Tech |
-|:-----:|:----:|
-| **Web Frontend** | `Angular` `Bootstrap` |
-| **Mobile** | `Flutter` |
-| **Backend** | `Laravel` `Flask` |
-| **Database** | `MySQL` |
-| **AI/ML** | AI Integration · ML Models |
-
 ---
 
 ### 🎓 Spec Recommender — BUE Specialization Recommender
 > A smart web application that guides students toward the right academic specialization based on their profile and preferences.
-
-| Layer | Tech |
-|:-----:|:----:|
-| **Frontend** | `React` `Vite` |
-| **Backend** | `Node.js` `Express.js` |
-| **Database** | `MongoDB` |
 
 ---
 
 ### 📱 PeerLink — Social Media Mobile App
 > A feature-rich mobile social platform with real-time interactions, user authentication, and a scalable REST API backend.
 
-| Layer | Tech |
-|:-----:|:----:|
-| **Mobile** | `Flutter` |
-| **Backend** | `Laravel` |
-| **Database** | `MySQL` |
-
 ---
 
 ### 🍳 Recipe Finder — Cooking Recipes Web App
 > An Angular-based recipe discovery platform with dynamic search and a clean, responsive UI.
-
-| Layer | Tech |
-|:-----:|:----:|
-| **Frontend** | `Angular` `Bootstrap` |
-
----
-
-> 🔎 Explore all repositories → [github.com/Mohamed-Samehh](https://github.com/Mohamed-Samehh?tab=repositories)
-
----
-
-## 💼 Professional Experience
-
-| Role | Company | Period |
-|:-----|:--------|:------:|
-| **Software Engineer** | Mercor *(Contract — Amazon projects)* | Jun – Nov 2025 |
-| **AI Engineer** | Elsewedy Electric *(Internship)* | Aug – Sep 2025 |
-| **Backend Developer** | Nafis Technologies *(Internship)* | Jul – Sep 2024 |
-| **Frontend Developer** | Digis Squared *(Internship)* | May – Sep 2024 |
 
 ---
 
