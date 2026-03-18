@@ -2,15 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Sameh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cairo%2C%20Egypt&descAlignY=58&descSize=18&animation=fadeIn" />
 
-<a href="https://git.io/typing-svg">
+<a href="https://git.io/typing-svg" target="_blank" rel="noopener noreferrer">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%F0%9F%9A%80;Angular+%7C+React+%7C+Node.js+%7C+Laravel;AI+Integration+%7C+RAG+Systems+%7C+Docker;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-22c55e?style=for-the-badge)](https://mohamed-samehh.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sameh-elkholy)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.kholy2011@gmail.com)
+<a href="https://mohamed-samehh.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-22c55e?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/mohamed-sameh2011" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mohamed.kholy2011@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
@@ -86,29 +86,29 @@ const mohamed: SoftwareEngineer = {
 
 ## 🚀 Featured Projects
 
-### 💰 [Financial Advisor](https://github.com/Mohamed-Samehh/Financial-Advisor) — AI-Powered Financial Planning App
+### 💰 <a href="https://github.com/Mohamed-Samehh/Financial-Advisor" target="_blank" rel="noopener noreferrer">Financial Advisor</a> — AI-Powered Financial Planning App
 > A full-stack, cross-platform AI financial advisor combining web and mobile interfaces with intelligent ML-backed recommendations.
 
 ---
 
-### 🎓 [Spec Recommender](https://github.com/Mohamed-Samehh/Spec-Recommender) — BUE Specialization Recommender
+### 🎓 <a href="https://github.com/Mohamed-Samehh/BUE-Spec-Path" target="_blank" rel="noopener noreferrer">Spec Recommender</a> — BUE Specialization Recommender
 > A smart web application that guides students toward the right academic specialization based on their profile and preferences.
 
 ---
 
-### 📱 [PeerLink](https://github.com/Mohamed-Samehh/PeerLink-Mobile) — Social Media Mobile App
+### 📱 <a href="https://github.com/Mohamed-Samehh/PeerLink-Mobile" target="_blank" rel="noopener noreferrer">PeerLink</a> — Social Media Mobile App
 > A feature-rich mobile social platform with real-time interactions, user authentication, and a scalable REST API backend.
 
 ---
 
-### 🍳 [Recipe Finder](https://github.com/Mohamed-Samehh/Recipe-Finder) — Cooking Recipes Web App
+### 🍳 <a href="https://github.com/Mohamed-Samehh/Recipe-Finder" target="_blank" rel="noopener noreferrer">Recipe Finder</a> — Cooking Recipes Web App
 > An Angular-based recipe discovery platform with dynamic search and a clean, responsive UI.
 
 ---
 
 ## 🏅 Certifications
 
-[![AWS](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+<a href="https://aws.amazon.com/certification/certified-cloud-practitioner/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" alt="AWS Certified Cloud Practitioner"/></a>
 
 ---
 
@@ -122,7 +122,7 @@ const mohamed: SoftwareEngineer = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Mohamed-Samehh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats" target="_blank" rel="noopener noreferrer"><img src="https://streak-stats.demolab.com?user=Mohamed-Samehh&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak"/></a>
 
 </div>
 
@@ -132,9 +132,9 @@ const mohamed: SoftwareEngineer = {
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Visit_My_Portfolio-22c55e?style=for-the-badge)](https://mohamed-samehh.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-sameh-elkholy)
-[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamed.kholy2011@gmail.com)
+<a href="https://mohamed-samehh.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-22c55e?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/mohamed-sameh2011" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:mohamed.kholy2011@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 </div>
 
