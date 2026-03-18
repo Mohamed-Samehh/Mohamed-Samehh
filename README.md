@@ -7,7 +7,9 @@
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-0077B5?style=flat-square" />
 </p>
 
-Full-stack developer with experience across frontend, backend, and AI integration. I consider myself flexible and client-oriented, with an analytical and creative approach to problem-solving.
+As a software engineer in the tech industry, I have established knowledge and capabilities in software development as a full-stack developer. I have further developed my technical competence through academic education and hands-on projects in various environments.
+
+I consider myself flexible and client-oriented, with an analytical and creative approach to problem-solving. I am ready to add value to both independent endeavors and teams within dynamic company environments.
 
 ---
 
@@ -35,6 +37,9 @@ Full-stack developer with experience across frontend, backend, and AI integratio
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?style=flat-square&logo=postgresql&logoColor=white)
+![C%23](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 
 ---
 
