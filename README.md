@@ -19,7 +19,29 @@
 
 ## 👨‍💻 About Me
 
-Software Engineer based in Cairo, Egypt 🇪🇬, with a BSc in Informatics & Computer Science from The British University in Egypt (dual degree with London South Bank University), and currently enrolled in ITI's intensive Open Source Application Development program. I build full-stack web and mobile applications with a strong focus on clean architecture, scalable backends, and seamless user experiences. I've applied my skills across multiple internships and contract roles — from frontend Angular work to AI-powered chatbot systems and Amazon engineering projects. I'm open to software engineering roles, AI-integrated projects, and freelance opportunities.
+```typescript
+const mohamed: SoftwareEngineer = {
+  name:      "Mohamed Sameh Elkholy",
+  role:      "Software Engineer",
+  location:  "Cairo, Egypt 🇪🇬",
+
+  education: [
+    "ITI — Open Source Application Development (2025–2026)",
+    "BUE / LSBU — BSc Informatics & Computer Science, Software Engineering (2021–2025)",
+  ],
+
+  about: `
+    Software engineer with hands-on experience across the full stack —
+    from building responsive frontends in Angular and React, to designing
+    scalable backends with Node.js, Laravel, and Flask. I've worked across
+    internships and a contract role in frontend, backend, and AI engineering,
+    including developing RAG-powered chatbot systems and contributing to
+    Amazon's engineering workflows. AWS Certified and currently deepening
+    my expertise at ITI. I enjoy clean architecture, meaningful projects,
+    and shipping software that works.
+  `,
+};
+```
 
 ---
 
