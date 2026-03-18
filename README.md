@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Mohamed%20Sameh&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Cairo%2C%20Egypt&descAlignY=58&descSize=18&animation=fadeIn" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Full-Stack+Software+Engineer+%F0%9F%9A%80;Angular+%7C+React+%7C+Node.js+%7C+Laravel;AI+Integration+%7C+RAG+Systems+%7C+Docker;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Software+Engineer+%F0%9F%9A%80;Angular+%7C+React+%7C+Node.js+%7C+Laravel;AI+Integration+%7C+RAG+Systems+%7C+Docker;AWS+Certified+Cloud+Practitioner+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -22,7 +22,7 @@
 ```typescript
 const mohamed: SoftwareEngineer = {
   name:      "Mohamed Sameh Elkholy",
-  role:      "Full-Stack Software Engineer",
+  role:      "Software Engineer",
   location:  "Cairo, Egypt 🇪🇬",
 
   education: [
@@ -31,16 +31,17 @@ const mohamed: SoftwareEngineer = {
   ],
 
   expertise: {
-    frontend:  ["Angular", "React", "TypeScript", "Bootstrap", "HTML/CSS"],
-    backend:   ["Node.js", "Express.js", "Laravel", "Flask", "REST APIs"],
+    frontend:  ["Angular", "React", "TypeScript", "Bootstrap", "HTML", "CSS"],
+    backend:   ["Node.js", "Express.js", "Laravel", "Flask", "PHP"],
     databases: ["MySQL", "MongoDB", "SQL"],
-    ai:        ["RAG Systems", "AI Chatbots", "ML Integration"],
+    ai:        ["AI Integration", "ML Frameworks"],
     devops:    ["Docker", "AWS", "Linux", "Git"],
+    languages: ["Python", "Java", "C++", "C#", "C"],
   },
 
   certifications: ["AWS Certified Cloud Practitioner (2026)"],
 
-  openTo: ["Full-Stack roles", "AI/ML-integrated projects", "Freelance opportunities"],
+  openTo: ["Software Engineering roles", "AI/ML-integrated projects", "Freelance opportunities"],
 };
 ```
 
@@ -48,40 +49,42 @@ const mohamed: SoftwareEngineer = {
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### 🎨 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### 🎨 Frontend
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend Development
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-### 🗄️ Databases
+### 🗄️ Database & DevOps
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-### ☁️ DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+### 🤖 AI/ML
+![AI Integration](https://img.shields.io/badge/AI_Integration-FF6F00?style=flat-square&logo=openai&logoColor=white)
+![ML Frameworks](https://img.shields.io/badge/ML_Frameworks-FF6F00?style=flat-square&logo=scikitlearn&logoColor=white)
 
 ---
 
@@ -90,20 +93,28 @@ const mohamed: SoftwareEngineer = {
 ### 💰 Financial Advisor — AI-Powered Financial Planning App
 > A full-stack, cross-platform AI financial advisor combining web and mobile interfaces with intelligent ML-backed recommendations.
 
+[![Repo](https://img.shields.io/badge/GitHub-Financial--Advisor-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh/Financial-Advisor)
+
 ---
 
 ### 🎓 Spec Recommender — BUE Specialization Recommender
 > A smart web application that guides students toward the right academic specialization based on their profile and preferences.
+
+[![Repo](https://img.shields.io/badge/GitHub-Spec--Recommender-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh/Spec-Recommender)
 
 ---
 
 ### 📱 PeerLink — Social Media Mobile App
 > A feature-rich mobile social platform with real-time interactions, user authentication, and a scalable REST API backend.
 
+[![Repo](https://img.shields.io/badge/GitHub-PeerLink--Mobile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh/PeerLink-Mobile)
+
 ---
 
 ### 🍳 Recipe Finder — Cooking Recipes Web App
 > An Angular-based recipe discovery platform with dynamic search and a clean, responsive UI.
+
+[![Repo](https://img.shields.io/badge/GitHub-Recipe--Finder-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mohamed-Samehh/Recipe-Finder)
 
 ---
 
