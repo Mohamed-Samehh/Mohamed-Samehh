@@ -31,19 +31,19 @@
 
 ### 🚀 Featured Projects
 
-#### 💰 Financial Advisor (AI-Powered)
+#### 💰 [Financial Advisor](https://github.com/Mohamed-Samehh/Financial-Advisor) (AI-Powered)
 > An intelligent financial advisor application combining AI/ML with a multi-platform frontend and robust backend.
 - **Tech**: Angular, Bootstrap, Flutter, Laravel, Flask, AI/ML, MySQL
 
-#### 🎓 Spec Recommender (BUE Specialization Recommender)
+#### 🎓 [Spec Recommender](https://github.com/Mohamed-Samehh/BUE-Spec-Path) (BUE Specialization Recommender)
 > Helps students find the right academic specialization using smart recommendations.
 - **Tech**: React Vite, Node.js, Express, MongoDB
 
-#### 📱 PeerLink-Mobile (Social Media App)
+#### 📱 [PeerLink-Mobile](https://github.com/Mohamed-Samehh/PeerLink-Mobile) (Social Media App)
 > A full-featured mobile social media application with real-time interactions.
 - **Tech**: Flutter, Laravel, MySQL
 
-#### 🍳 Recipe Finder
+#### 🍳 [Recipe Finder](https://github.com/Mohamed-Samehh/Recipe-Finder)
 > A cooking recipes website with a clean and responsive UI.
 - **Tech**: Angular, Bootstrap
 
@@ -69,7 +69,7 @@
 <p align="left">
 <a href="mailto:mohamed.kholy2011@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohamed-sameh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=konva&logoColor=61dafb" /></a>
+<a href="https://mohamed-samehh.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-252a34?style=for-the-badge&logo=konva&logoColor=61dafb" /></a>
 </p>
 
 ---
